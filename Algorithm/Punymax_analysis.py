@@ -1,4 +1,3 @@
-#!C:\Users\MaksymilianJanSzyman\AppData\Local\Programs\Python\Python37-32\python.exe
 
 # Copyright 2020 Maksymilian Jan Szymanski 
 # Universidad Carlos III Madrid
