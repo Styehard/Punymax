@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/12640176/96775541-f42e9a00-13e7-11eb-925c-2afe515c9629.png)
 ## **PUNYMAX** - A homograph phishing protection tool
 
 A tool to protect you from homograph phishing attacks.
