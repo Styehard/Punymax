@@ -1,0 +1,23 @@
+{
+  "name": "Punymax",
+  "version": "0.2",
+  "description": "An extension to protect you from homograph phising attacks like \"góog1e.com\" or \"fącebook.com\" ",
+  "manifest_version": 2,
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "icons": { "16": "icon1.png",
+    "48": "icon2.png",
+   "128": "icon3.png" },
+  "permissions": [
+    "<all_urls>",
+    "webRequest",
+    "webRequestBlocking",
+    "storage"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  }
+}
